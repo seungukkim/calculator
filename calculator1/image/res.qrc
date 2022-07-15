@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>0.png</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>4.png</file>
+    <file>5.png</file>
+    <file>6.png</file>
+    <file>7.png</file>
+    <file>8.png</file>
+    <file>9.png</file>
+    <file>calculator.ui</file>
+    <file>minus.png</file>
+    <file>plus.png</file>
+    <file>res.qrc</file>
+    <file>result.png</file>
+    <file>root.png</file>
+  </qresource>
+</RCC>
